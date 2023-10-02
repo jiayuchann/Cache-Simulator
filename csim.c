@@ -1,11 +1,3 @@
-/*
-Date: 02/22/2021
-Class: CS4541
-Assignment: Cache_Simulator
-Author(s): Jia Yu Chan
-Email: jiayu.chan@wmich.edu
-*/
-
 #define _GNU_SOURCE
 
 #include <string.h>
